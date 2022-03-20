@@ -2,8 +2,8 @@
 
 STARTUP_PYTHON_SCRIPT="main.py"
 
-ModulesToInstall="" # Use spaces to separate, leave blank for no modules
-ModulesToUninstall="Flask" # Use spaces to separate, leave blank for no modules
+ModulesToInstall="Flask" # Use spaces to separate, leave blank for no modules
+ModulesToUninstall="" # Use spaces to separate, leave blank for no modules
 
 #################################################
 
