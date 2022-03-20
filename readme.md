@@ -1,4 +1,4 @@
-### **python 3.9 V1.0.0 for cys nodejs by @mollomm1**
+### **python 3.9 V1.0.1 for cys nodejs by @mollomm1**
 
 <a href="https://github.com/Mollomm1/Mollomm1-s-Python-3.9-for-CYS-Nodejs-Servers/releases/tag/2">DOWNLOAD</a>
 
